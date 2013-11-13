@@ -1,0 +1,28 @@
+{
+	
+	"name": "Speech Regonition",
+	"description": "Speech recognition wrapper.",
+
+	"groupId": "com.scottbyrns.HTML5.IO",
+	"artifactId": "Speech",
+	"version": "1.0.0-SNAPSHOT",
+	
+	"developers": [
+		{
+			"name":"Scott Byrns"
+		}
+	],
+	
+	"dependencies": [
+		
+	],
+	
+	"sources": [
+		"Recognizer.js"
+	],
+	
+	"configuration": {
+		
+	}
+	
+}
